@@ -11,3 +11,5 @@ def test_square_basic():
   
 if __name__ == "__main__":
   main()
+  
+# Execute file by running pytest [relative path to file] in the terminal
